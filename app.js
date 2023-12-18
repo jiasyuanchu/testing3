@@ -7,7 +7,7 @@ const port = 3000
 
 //引用路由模組
 app.get('/', (req, res) => {
-  res.send("hello world!")
+  // res.send("hello world!")
 })
 //設定 port 3000
 //啟動伺服器並監聽
